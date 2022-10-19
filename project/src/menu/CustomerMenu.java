@@ -1,10 +1,12 @@
 package menu;
 
-import project.customer.Customer;
-import project.exception.CustomerException;
-import project.exception.CustomerNameforematException;
+import customer.Customer;
+import exception.CustomerException;
+//import project.customer.Customer;
+//import project.exception.CustomerException;
+//import project.exception.CustomerNameforematException;
 
-import javax.xml.transform.Source;
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

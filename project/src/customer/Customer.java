@@ -1,12 +1,18 @@
 package customer;
 
 
-import project.exception.CustomerIDFormatException;
-import project.exception.CustomerNameforematException;
-import project.exception.LessThanZeroException;
-import project.groups.Group;
-import project.groups.GroupType;
-import project.groups.Groups;
+import exception.CustomerIDFormatException;
+import exception.CustomerNameforematException;
+import exception.LessThanZeroException;
+import groups.Group;
+import groups.GroupType;
+import groups.Groups;
+//import project.exception.CustomerIDFormatException;
+//import project.exception.CustomerNameforematException;
+//import project.exception.LessThanZeroException;
+//import project.groups.Group;
+//import project.groups.GroupType;
+//import project.groups.Groups;
 
 import java.util.Objects;
 import java.util.regex.Pattern;

@@ -1,9 +1,12 @@
 package menu;
 
-import project.exception.CustomerException;
-import project.exception.LessThanZeroException;
-import project.groups.Group;
-import project.groups.GroupType;
+import exception.LessThanZeroException;
+import groups.Group;
+import groups.GroupType;
+//import project.exception.CustomerException;
+//import project.exception.LessThanZeroException;
+//import project.groups.Group;
+//import project.groups.GroupType;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

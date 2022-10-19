@@ -1,8 +1,12 @@
 package menu;
 
-import project.customer.Customers;
-import project.groups.Group;
-import project.groups.Groups;
+import customer.Customer;
+import customer.Customers;
+import groups.Group;
+import groups.Groups;
+//import project.customer.Customers;
+//import project.groups.Group;
+//import project.groups.Groups;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

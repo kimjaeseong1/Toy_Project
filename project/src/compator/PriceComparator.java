@@ -1,6 +1,7 @@
 package compator;
 
-import project.customer.Customer;
+import customer.Customer;
+//import project.customer.Customer;
 
 import java.util.Comparator;
 
